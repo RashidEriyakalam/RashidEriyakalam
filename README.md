@@ -19,7 +19,7 @@ Hello, I'm Mohamed Rashid, a data enthusiast with a background in Engineering an
 📫 **Let's Connect**<br>
 * Email: mohamed.rashid471@gmail.com <br>
 * LinkedIn:https://www.linkedin.com/in/mohamed-rashid-ek/<br>
-* GitHub:https:
+* GitHub:https:https://github.com/RashidEriyakalam
 
 📊 **Featured Projects**<br>
 * YouTube Scraping Project - [Link to the project]
